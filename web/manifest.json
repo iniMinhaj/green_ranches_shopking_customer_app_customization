@@ -1,6 +1,6 @@
 {
-    "name": "green_ranches_shopking_customer_app_customization",
-    "short_name": "green_ranches_shopking_customer_app_customization",
+    "name": "shopperz",
+    "short_name": "shopperz",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

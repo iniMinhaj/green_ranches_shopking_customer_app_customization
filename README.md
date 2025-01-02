@@ -1,4 +1,4 @@
-# green_ranches_shopking_customer_app_customization
+# shopperz
 
 A new Flutter project.
 
